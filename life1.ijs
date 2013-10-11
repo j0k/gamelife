@@ -1,6 +1,8 @@
 NB. game life
 NB. WARN. don't copy style of my J. i am still J-nub.
 
+NB. main funcs: lifenext, live, tor
+
 ]sp =: >1 1 ; 3 3
 
 ]mG =: 3 : '(y,y) $ ? (y^2) # 2'	NB.generate Matrix
