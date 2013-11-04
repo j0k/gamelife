@@ -60,7 +60,7 @@ NB. └─────────────┴──────────�
 
 
 load 'viewmat'
-viewmat lifenext^:(]`m1) 1
+NB. viewmat lifenext^:(]`m1) 1
 
 6 6 $ ;/lifenext^:(]`m1) i.36
 
